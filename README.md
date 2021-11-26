@@ -30,8 +30,25 @@
 <!-- ## 🔗 &nbsp;Links -->
 <h2><img height="30px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> Links</h2>
 <div>
-  <a href="https://www.instagram.com/gutolitt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/DZnnfQDbp9"><img src="https://img.shields.io/badge/-discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<!--   instagram -->
+  <a href="https://www.instagram.com/gutolitt" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+<!--   discord -->
+  <a href="https://discord.gg/DZnnfQDbp9">
+    <img src="https://img.shields.io/badge/-discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  
+<!--   linkedin -->
+  <a href="https://www.linkedin.com/in/gustavo-litter-6ab24b191/">
+    <img src="https://img.shields.io/badge/-Linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  
+<!--   twitter -->
+  <a href="https://twitter.com/gustavo_gurt">
+    <img src="https://img.shields.io/badge/-twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
+  </a>
 </div>
 
 </br></br>
