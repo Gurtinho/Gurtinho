@@ -32,7 +32,7 @@
 </br></br>
 
 <!-- ## 🔗 &nbsp;Links -->
-<h2><img height="30px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> Links</h2>
+<h2><img height="30px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> Socials</h2>
 <div>
 <!--   instagram -->
   <a href="https://www.instagram.com/gutolitt" target="_blank">
