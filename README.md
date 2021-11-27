@@ -1,16 +1,15 @@
 <h1><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> Eae, sou o Gustavo</h1>
 
-- 🌐 Desenvolvedor web
-- 
+- Desenvolvedor web
 
-</br></br>
+</br>
 
 <!-- ## 💡 &nbsp;Github Analytics -->
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" /> Github Analytics</h2>
 <div>
   <a href="https://github.com/Gurtinho">
-  <img width="550em" src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
 </br></br>
