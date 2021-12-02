@@ -15,7 +15,7 @@
 </br></br>
 
 <!-- ## 🛠️ &nbsp;Languages -->
-<h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620337-441d693c-a903-42af-9ddd-4dfa82d25822.gif" /> Skills</h2>
+<h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620337-441d693c-a903-42af-9ddd-4dfa82d25822.gif" /> Tools</h2>
 <div>
 <!--   javascript -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -25,14 +25,6 @@
   <a href="https://nodejs.org/en/">
     <img align="center" alt="Gurt-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
-<!--   express js -->
-  <a href="https://expressjs.com/pt-br/">
-    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  </a>
-<!--   npm  -->
-  <a href="https://www.npmjs.com/">
-    <img align="center" alt="Gurt-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  </a>
 <!--   postgresql -->
   <a href="https://www.postgresql.org/docs/current/datatype.html">
     <img align="center" alt="Gurt-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
@@ -41,16 +33,13 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Gurt-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   </a>
+<!--   css -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="Gurt-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </a>
 <!--   bootstrap -->
   <a href="https://getbootstrap.com/">
     <img align="center" alt="Gurt-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  </a>
-<!--   photoshop -->
-  <a href="https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQiA-qGNBhD3ARIsAO_o7yl-91VAE_xNjrjoCU3wDDlYxH36TmIDhxG30ONwgMkXYmK_B_lz5DQaAl0ZEALw_wcB:G:s&s_kwcid=AL!3085!3!534509111641!e!!g!!photoshop!188192502!10077842982&gclid=Cj0KCQiA-qGNBhD3ARIsAO_o7yl-91VAE_xNjrjoCU3wDDlYxH36TmIDhxG30ONwgMkXYmK_B_lz5DQaAl0ZEALw_wcB">
-    <img align="center" alt="Gurt-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </a>
 <!--   vscode -->
   <a href="https://code.visualstudio.com/">
