@@ -17,19 +17,46 @@
 <!-- ## 🛠️ &nbsp;Languages -->
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620337-441d693c-a903-42af-9ddd-4dfa82d25822.gif" /> Skills</h2>
 <div>
-  <a text-decoration="none" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="Gurt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
+  <a href="https://nodejs.org/en/">
+    <img align="center" alt="Gurt-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img align="center" alt="Gurt-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  </a>
+  <a href="https://www.postgresql.org/docs/current/datatype.html">
+    <img align="center" alt="Gurt-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img align="center" alt="Gurt-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img align="center" alt="Gurt-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img align="center" alt="Gurt-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </a>
+  <a href="https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQiA-qGNBhD3ARIsAO_o7yl-91VAE_xNjrjoCU3wDDlYxH36TmIDhxG30ONwgMkXYmK_B_lz5DQaAl0ZEALw_wcB:G:s&s_kwcid=AL!3085!3!534509111641!e!!g!!photoshop!188192502!10077842982&gclid=Cj0KCQiA-qGNBhD3ARIsAO_o7yl-91VAE_xNjrjoCU3wDDlYxH36TmIDhxG30ONwgMkXYmK_B_lz5DQaAl0ZEALw_wcB">
+    <img align="center" alt="Gurt-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img align="center" alt="Gurt-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  <a href="https://expressjs.com/pt-br/">
+    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/">
+    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  </a>
+  <a href="https://www.opera.com/pt-br/gx">
+    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
+  </a>
   
-  <img align="center" alt="Gurt-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Gurt-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Gurt-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="Gurt-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Gurt-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gurt-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Gurt-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Gurt-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div
   
 </br></br>
