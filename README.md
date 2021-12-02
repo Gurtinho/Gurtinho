@@ -18,9 +18,11 @@
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620337-441d693c-a903-42af-9ddd-4dfa82d25822.gif" /> Skills</h2>
 <div>
 <!--   javascript -->
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript javascript">
+<!--   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="Gurt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </a>
+  </a> -->
+  [![An old rock in the desert](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "Javascript")]
+  (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 <!--   nodejs -->
   <a href="https://nodejs.org/en/">
     <img align="center" alt="Gurt-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
