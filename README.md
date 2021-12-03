@@ -19,47 +19,47 @@
 <div>
 <!--   javascript -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="Gurt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gurt-js" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
   </a>
   <!--   nodejs -->
   <a href="https://nodejs.org/en/">
-    <img align="center" alt="Gurt-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img align="center" alt="Gurt-node" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" />
+  </a>
+<!--   nunjucks -->
+  <a href="https://mozilla.github.io/nunjucks/">
+    <img align="center" alt="Gurt-git" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nunjucks_icon_130292.png" />
   </a>
 <!--   postgresql -->
   <a href="https://www.postgresql.org/docs/current/datatype.html">
-    <img align="center" alt="Gurt-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <img align="center" alt="Gurt-postgresql" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" />
   </a>
 <!--   html -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" alt="Gurt-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Gurt-html" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
   </a>
 <!--   css -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" alt="Gurt-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Gurt-css" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
   </a>
 <!--   bootstrap -->
   <a href="https://getbootstrap.com/">
-    <img align="center" alt="Gurt-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  </a>
-<!--   vscode -->
-  <a href="https://code.visualstudio.com/">
-    <img align="center" alt="Gurt-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="Gurt-bootstrap" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" />
   </a>
 <!--   git -->
   <a href="https://git-scm.com/">
-    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Gurt-git" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
   </a>
 <!--   github -->
   <a href="https://github.com/">
-    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img align="center" alt="Gurt-git" height="30" width="30" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" />
+  </a>
+<!--   vscode -->
+  <a href="https://code.visualstudio.com/">
+    <img align="center" alt="Gurt-vscode" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
   </a>
 <!--   opera gx -->
   <a href="https://www.opera.com/pt-br/gx">
-    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
-  </a>
-  
-  <a href="https://mozilla.github.io/nunjucks/">
-    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nunjucks_icon_130292.png" />
+    <img align="center" alt="Gurt-git" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/opera_gx_browser_logo_icon_152976.png" />
   </a>
   
 </div
