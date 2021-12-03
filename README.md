@@ -1,27 +1,28 @@
 <h1><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> Eae, sou o Gustavo</h1>
 
-- Desenvolvedor web
+<p>Desenvolvedor web</p>
 
 </br>
 
 <!-- ## 💡 &nbsp;Github Analytics -->
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" /> Github Analytics</h2>
-<div>
+<div align="center">
   <a href="https://github.com/Gurtinho">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
 </br></br>
 
-<!-- ## 🛠️ &nbsp;Languages -->
+<!-- ## 🛠️ &nbsp;Tools -->
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620337-441d693c-a903-42af-9ddd-4dfa82d25822.gif" /> Tools</h2>
-<div>
+
+<div align="center">
 <!--   javascript -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="Gurt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
-<!--   nodejs -->
+  <!--   nodejs -->
   <a href="https://nodejs.org/en/">
     <img align="center" alt="Gurt-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
@@ -64,7 +65,8 @@
 
 <!-- ## 🔗 &nbsp;Links -->
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143620129-a7cf3435-8c3d-45f1-89fc-a64836558c39.gif" /> Socials</h2>
-<div>
+
+<div align="center">
 <!--   instagram -->
   <a href="https://www.instagram.com/gutolitt/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -90,4 +92,6 @@
 
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143664191-1b5290b7-408a-49d6-a88a-942599ef380b.gif" /> Fun</h2>
 
-![snake gif](https://github.com/Gurtinho/Gurtinho/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Gurtinho/Gurtinho/blob/output/github-contribution-grid-snake.svg" />
+</div>
