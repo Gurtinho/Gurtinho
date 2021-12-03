@@ -58,6 +58,10 @@
     <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
   </a>
   
+  <a href="https://mozilla.github.io/nunjucks/">
+    <img align="center" alt="Gurt-git" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nunjucks_icon_130292.png" />
+  </a>
+  
 </div
   
 </br></br>
