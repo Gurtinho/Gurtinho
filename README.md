@@ -96,6 +96,3 @@
 
 <h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143664191-1b5290b7-408a-49d6-a88a-942599ef380b.gif" /> Fun</h2>
 
-<div>
-  <img src="https://github.com/Gurtinho/Gurtinho/blob/output/github-contribution-grid-snake.svg" />
-</div>
