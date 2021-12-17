@@ -1,4 +1,4 @@
-<img align="right" height="500px" src="https://raw.githubusercontent.com/gist/Gurtinho/2632940541f28cd27dac7d91ef63c024/raw/197bbd6f5ad9948d3a30e6b4641ecff39a94bf71/gurtinhocard.svg" />
+<img align="right" height="550px" src="https://raw.githubusercontent.com/gist/Gurtinho/2632940541f28cd27dac7d91ef63c024/raw/197bbd6f5ad9948d3a30e6b4641ecff39a94bf71/gurtinhocard.svg" />
 
 
 <h1 align="left"><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> Hi, I'm Gustavo</h1>
@@ -19,9 +19,10 @@
   </a>
 </div>
 
+
 - 💻 Im a Web Developer
 
-- 📚 Studying at the moment
+- 📚 Studying frameworks at the moment
 
 - 😋 Programming is **delicious**
 
