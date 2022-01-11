@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/gutolitt/" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.gg/DZnnfQDbp9" target="blank">
+<!--   <a href="https://discord.gg/DZnnfQDbp9" target="blank">
     <img src="https://img.shields.io/badge/-discord-%235865F2?style=flat&logo=discord&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-litter-6ab24b191/" target="blank">
@@ -16,7 +16,7 @@
   </a>
   <a href="https://twitter.com/gustavo_gurt" target="blank">
     <img src="https://img.shields.io/badge/-twitter-%2300acee?style=flat&logo=twitter&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
 
 
