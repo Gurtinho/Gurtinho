@@ -36,11 +36,12 @@
 ## ⚙️ Stack
 <div align="left">
   <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-Html-red?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-Css-blue?style=flat&logo=css3&logoColor=white">
   </br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-gray?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-VsCode-blue?style=flat&logo=visualstudiocode&logoColor=white">
