@@ -6,17 +6,11 @@
 
 <div align="left">
   <a href="https://www.instagram.com/gutolitt/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
-<!--   <a href="https://discord.gg/DZnnfQDbp9" target="blank">
-    <img src="https://img.shields.io/badge/-discord-%235865F2?style=flat&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-litter-6ab24b191/" target="blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%230e76a8?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linkedin-%230e76a8?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="https://twitter.com/gustavo_gurt" target="blank">
-    <img src="https://img.shields.io/badge/-twitter-%2300acee?style=flat&logo=twitter&logoColor=white"/>
-  </a> -->
 </div>
 
 
@@ -35,18 +29,20 @@
 
 ## ⚙️ Stack
 <div align="left">
-  <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Html-red?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-Css-blue?style=flat&logo=css3&logoColor=white">
-  </br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-gray?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/-VsCode-blue?style=flat&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/-Opera Gx-%23E4405F?style=flat&logo=opera&logoColor=white">
-  <img src="https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white">
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascritp" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="Adonis.js" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSql" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VsCode" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
 </div>
 </br></br>
 
