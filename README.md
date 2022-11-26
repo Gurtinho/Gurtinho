@@ -27,7 +27,7 @@
 </br>
 
 
-## ⚙️ Stack
+## ⚙️ My Tools
 <div align="left">
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Php" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" />
