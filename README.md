@@ -20,7 +20,7 @@
 
 - 😋 Programming is **delicious**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, PostgreSQL, Node.JS**
+- 💬 Ask me about **Typescript, React.js, Node.JS, PostgreSQL**
 
 - 🥳 You are my friend now
 
