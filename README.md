@@ -30,6 +30,7 @@
 ## ⚙️ My Tools
 <div align="left">
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="Next.js" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
