@@ -1,13 +1,11 @@
-<!--   <img align="right" height="500px" src="https://raw.githubusercontent.com/gist/Gurtinho/2632940541f28cd27dac7d91ef63c024/raw/197bbd6f5ad9948d3a30e6b4641ecff39a94bf71/gurtinhocard.svg" /> -->
-
 <h1 align="left"><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> Hi, I'm Gustavo</h1>
 
 <div align="left">
   <a href="https://www.instagram.com/gustavolitter/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-litter-6ab24b191/" target="blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%230e76a8?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/-linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
 
