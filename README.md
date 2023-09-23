@@ -18,25 +18,26 @@
 
 ## ⚙️ My Tools
 <div align="left">
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest.js" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" fill="white" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Php" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSql" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySql" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="React.js" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  alt="Next.js" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwindcss" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Graphql" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
+  <img height="30px" src="https://img.shields.io/badge/-typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-node.js-%283CD29?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-nest-%23DF234F?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-express-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-php-%236181B6?style=for-the-badge&logo=php&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-composer-%23895730?style=for-the-badge&logo=composer&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-postgres-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-mysql-%23035B81?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-react.js-%235DCEED?style=for-the-badge&logo=react&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-jest-%23753A4D?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-graphql-%23E434AA?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-discord.js-%230C0C14?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-terraform-%235C4EE5?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/-windows-%2300ADEF?style=for-the-badge&logo=windows&logoColor=white"/>
+  
 </div>
 </br></br>
 
