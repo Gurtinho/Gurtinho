@@ -12,8 +12,8 @@
 </div>
 
 </br>
-- 😋 Programming is **delicious**
-- 🥳 You are my friend now
+  <p>😋 Programming is **delicious**</p>
+  <p>🥳 You are my friend now</p>
 </br>
 
 ## ⚙️ My Tools
