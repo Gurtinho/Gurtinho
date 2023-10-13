@@ -39,6 +39,9 @@
     <a href="https://www.postgresql.org/" target="_blank">
       <img height="25px" src="https://img.shields.io/badge/-postgres-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </a>
+    <a href="https://www.prisma.io/" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/-prisma-%23336791?style=for-the-badge&logo=prisma&logoColor=white"/>
+    </a>
   </div>
   <div>
     <a href="https://www.mysql.com/" target="_blank">
