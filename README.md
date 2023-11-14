@@ -12,11 +12,12 @@
 </div>
 
 </br>
-  <p>😋 Programming is <b>delicious</b></p>
-</br>
+<small>Sou desenvolvedor mais focado no backend.</small>
+<small>Prefiro ficar construindo apis, microservices entre outras coisas.</small>
+<!-- </br> -->
 
 ## ⚙️ My Tools
-<div>
+<div align="left">
 <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
 
 <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
