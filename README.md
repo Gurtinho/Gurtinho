@@ -12,8 +12,7 @@
 </div>
 
 </br>
-<small>Sou desenvolvedor mais focado no backend.</small>
-<small>Prefiro ficar construindo apis, microservices entre outras coisas.</small>
+<small>Gosto de ficar construindo apis, microservices entre outras coisas.</small>
 <!-- </br> -->
 
 ## ⚙️ My Tools
