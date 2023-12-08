@@ -13,56 +13,32 @@
 
 </br>
 <small>Gosto de ficar construindo apis, microservices entre outras coisas.</small>
+</br>
+<small>Estou entrando no mundo do desenvolvimento desktop.</small>
 <!-- </br> -->
 
 ## ⚙️ My Tools
-<div align="left">
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+**Tecnologies**
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=golang,php,ts,nodejs,nestjs,express,bots,discord,jest,rust,rocket&theme=light)]()
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+**Databases and Messaging**
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,mysql,postgresql,prisma&theme=light)]()
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg"/>
+**DevOps**
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,github&theme=light)]()
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
+**Front-End**
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,next&theme=light)]()
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+**Utilities**
 
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
-  
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=postman,vim,vscode,linux,bash,powershell&theme=light)]()
 </br></br>
-
 
 ## 📊 Github Stats
 <div align="left">
