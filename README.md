@@ -12,10 +12,8 @@
 </div>
 
 </br>
-<small>Gosto de ficar construindo apis, microservices entre outras coisas.</small>
-</br>
-<small>Estou entrando no mundo do desenvolvimento desktop em Rust. 🔥</small>
-<!-- </br> -->
+<small>Construção de apis, microservices e estou entrando no mundo do desenvolvimento desktop em Rust. 🔥</small>
+</br></br>
 
 ## ⚙️ My Tools
 
