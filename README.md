@@ -21,15 +21,15 @@
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=golang,php,ts,nodejs,nestjs,express,bots,discord,jest,rust,rocket&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=golang,php,ts,nodejs,nestjs,express,bots,jest,rust,rocket&theme=light)]()
 
 **Databases and Messaging**
 
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,mysql,postgresql,prisma&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,mysql,postgresql,prisma&theme=light)]()
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,github&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
 
 **Front-End**
 
