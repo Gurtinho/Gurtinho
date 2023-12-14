@@ -19,7 +19,7 @@
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=golang,php,ts,nodejs,nestjs,express,bots,jest,rust,rocket&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,bots,jest,rust,rocket,golang&theme=light)]()
 
 **Databases and Messaging**
 
