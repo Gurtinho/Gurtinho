@@ -12,7 +12,7 @@
 </div>
 
 </br>
-<small>Construção de apis, microservices e estou entrando no mundo do desenvolvimento desktop em Rust. 🔥</small>
+<small>Construção de apis, microservices e estou entrando no mundo do desenvolvimento desktop. 🔥</small>
 </br></br>
 
 ## ⚙️ My Tools
