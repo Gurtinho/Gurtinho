@@ -19,7 +19,7 @@
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,bots,jest,rust,rocket,golang&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,bots,jest,golang,rust,actix,c,cpp&theme=light)]()
 
 **Databases and Messaging**
 
@@ -35,7 +35,7 @@
 
 **Utilities**
 
-[![My Skills](https://skillicons.dev/icons?i=postman,vim,vscode,linux,bash,powershell&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,linux,bash,powershell&theme=light)]()
 </br></br>
 
 ## 📊 Github Stats
