@@ -1,4 +1,4 @@
-<h1 align="left"> Fala aí, eu sou o Gustavo</h1>
+<h1 align="left"> Fala aí, de boas? 🤙</h1>
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
@@ -10,10 +10,8 @@
     <img height="25px" src="https://img.shields.io/badge/-linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
-
-</br>
-<small>Construção de apis, microservices e estou entrando no mundo do desenvolvimento desktop. 🔥</small>
-</br></br>
+<h3>Meu nome é Gustavo</h3>
+<h5>Meu foco atualmente tá na construção de apis, microservices e desenvolvimento desktop. 🔥</h5>
 
 ## ⚙️ My Tools
 
