@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm Gustavo</h1>
+<h1 align="left"> Fala aí, eu sou o Gustavo</h1>
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
