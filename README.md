@@ -18,24 +18,23 @@
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,bots,jest,golang,rust,actix,c,cpp&theme=light)]()
-
-**Databases and Messaging**
+[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,bots,jest,golang,rust&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,mysql,postgresql,prisma&theme=light)]()
 
-**DevOps**
-
 [![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
-
-**Front-End**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,next&theme=light)]()
 
-**Utilities**
-
 [![My Skills](https://skillicons.dev/icons?i=postman,vscode,linux,bash,powershell&theme=light)]()
-</br></br>
+
+</br>
+
+**🔥 Learning 🔥**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,actix&theme=light)]()
+
+</br>
 
 ## 📊 Github Stats
 <div align="left">
