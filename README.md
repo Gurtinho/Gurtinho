@@ -11,7 +11,8 @@
   </a>
 </div>
 <h3>Meu nome é Gustavo</h3>
-<h5>Meu foco atualmente tá na construção de apis, microservices e desenvolvimento desktop. 🔥</h5>
+<p>Meu foco é construção de apis, microservices e desenvolvimento desktop. 🔥</p>
+<p>Atualmente tenho dado mais atenção em linguagens como Rust, C e C++.</p>
 
 ## ⚙️ My Tools
 
