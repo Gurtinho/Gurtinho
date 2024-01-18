@@ -11,16 +11,16 @@
   </a>
 </div>
 <h3>Meu nome é Gustavo</h3>
-<p>Meu foco é construção de apis, microservices e desenvolvimento desktop. 🔥</p>
-<p>Atualmente tenho dado mais atenção em linguagens como Rust, C e C++.</p>
+<p>Construo algumas apis e microservices.</p>
+<p>Atualmente tenho dado mais atenção em linguagens como Rust e Go, tanto pra web quando desktop.</p>
 
 ## ⚙️ My Tools
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,bots,jest,golang,rust&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,jest,rust&theme=light)]()
 
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,mysql,postgresql,prisma&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
 
@@ -32,7 +32,7 @@
 
 **🔥 Learning 🔥**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,actix&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=go,actix,tauri,kafka,rabbitmq&theme=light)]()
 
 </br>
 
