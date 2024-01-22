@@ -15,7 +15,7 @@
 </div>
 <h3>Meu nome é Gustavo</h3>
 <p>Construo algumas apis e microservices.</p>
-<p>Atualmente tenho dado mais atenção em linguagens como Rust e Go, tanto pra web quando desktop.</p>
+<p>Atualmente tenho dado mais atenção em linguagens como Rust e Go, pra web e desktop.</p>
 
 ## ⚙️ My Tools
 
