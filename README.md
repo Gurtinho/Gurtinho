@@ -21,7 +21,7 @@
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=php,ts,nodejs,nestjs,express,jest,rust&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,php,ts,nodejs,nestjs,express,jest&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
@@ -37,11 +37,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,actix,tauri,kafka,rabbitmq&theme=light)]()
 
-</br>
-
-## 📊 Github Stats
-<div align="left">
-  <img height="400px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&langs_count=8&theme=radical"/>
-</div>
 </br>
