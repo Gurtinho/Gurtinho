@@ -14,8 +14,8 @@
   </a>
 </div>
 <h3>Meu nome é Gustavo</h3>
-<p>Construo algumas apis e microservices.</p>
-<p>Atualmente tenho dado mais atenção em linguagens como Rust e Go, pra web e desktop.</p>
+<p>Construo algumas apis, microservices e app desktop.</p>
+<p>AtualmenteSempre aprendendo algo novo.</p>
 
 ## ⚙️ My Tools
 
@@ -35,6 +35,6 @@
 
 **🔥 Learning 🔥**
 
-[![My Skills](https://skillicons.dev/icons?i=go,actix,tauri,kafka,rabbitmq&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=go,java,actix,tauri,kafka,rabbitmq&theme=light)]()
 
 </br>
