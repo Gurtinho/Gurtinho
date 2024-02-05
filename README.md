@@ -4,8 +4,6 @@
 <h1 align="left"> Fala aí, de boas? 🤙</h1>
 
 <div align="left">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/-about me-%23fff?style=for-the-badge&logo=&logoColor=white" alt="about me">
   <a href="https://www.instagram.com/gustavolitter/" target="_blank">
     <img height="25px" src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -14,15 +12,15 @@
   </a>
 </div>
 <h3>Meu nome é Gustavo</h3>
-<p>Construo algumas apis, microservices e app desktop.</p>
-<p>Sempre aprendendo algo novo.</p>
+<p>Construo algumas apis e microservices.</p>
+<p>Meu foco atual é <b>Rust</b>🦀</p>
 
 
 ## ⚙️ My Tools
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=rust,php,ts,nodejs,nestjs,express,jest&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,actix,php,ts,nodejs,nestjs,express&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
@@ -36,6 +34,6 @@
 
 **🔥 Learning 🔥**
 
-[![My Skills](https://skillicons.dev/icons?i=go,actix,tauri,kafka,rabbitmq&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=go,tauri,kafka,rabbitmq&theme=light)]()
 
 </br>
