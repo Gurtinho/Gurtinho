@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,next&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=postman,vscode,linux,bash,powershell&theme=light)]()
 
