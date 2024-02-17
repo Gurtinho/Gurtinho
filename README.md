@@ -13,22 +13,22 @@
 </div>
 <h3>Meu nome é Gustavo</h3>
 <p>Construo algumas apis e microservices.</p>
-<p>Meu foco atual é <b>Rust</b>🦀</p>
+<p>Meu foco atual é <b>Rust</b> e <b>Go</b></p>
 
 
 ## ⚙️ My Tools
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=rust,actix,php,ts,nodejs,nestjs,express&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,actix,php,ts,nodejs,nestjs&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind&theme=light)]()
 
-[![My Skills](https://skillicons.dev/icons?i=postman,vscode,linux,bash,powershell&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,powershell&theme=light)]()
 
 </br>
 
