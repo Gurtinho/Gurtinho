@@ -11,22 +11,23 @@
     <img height="25px" src="https://img.shields.io/badge/-linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
-<h3>Meu nome é Gustavo</h3>
+
+</br>
+
 <p>Construo algumas apis e microservices.</p>
 <p>Meu foco atual é <b>Rust</b> e <b>Go</b></p>
 
+</br>
 
 ## ⚙️ My Tools
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=rust,actix,php,ts,nodejs,nestjs&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=go,rust,actix,ts,nodejs,nestjs,react,tailwind&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,bash,powershell&theme=light)]()
 
@@ -34,6 +35,6 @@
 
 **🔥 Learning 🔥**
 
-[![My Skills](https://skillicons.dev/icons?i=go,tauri,kafka,rabbitmq&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=tauri,kafka,rabbitmq&theme=light)]()
 
 </br>
