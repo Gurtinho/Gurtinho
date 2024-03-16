@@ -14,7 +14,7 @@
 
 </br>
 
-<p>Construo algumas apis e microservices.</p>
+<p>Construo algumas apis por aí.</p>
 <p>Meu foco atual é <b>Rust</b> e <b>Go</b></p>
 
 </br>
