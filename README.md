@@ -36,4 +36,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tauri,kafka,rabbitmq&theme=light)]()
 
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)]()
+
 </br>
