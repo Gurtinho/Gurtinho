@@ -22,7 +22,7 @@
 
 **Tecnologies**
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,actix,ts,nodejs,nestjs,react,tailwind&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,tailwind,jest,vitest&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
@@ -34,7 +34,7 @@
 
 **🔥 Learning 🔥**
 
-[![My Skills](https://skillicons.dev/icons?i=tauri,kafka,rabbitmq&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=go,rust,actix,tauri,kafka,rabbitmq,grpc&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)]()
 
