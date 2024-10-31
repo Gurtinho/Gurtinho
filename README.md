@@ -1,6 +1,3 @@
-
-<img src="https://camo.githubusercontent.com/72c9a87e8cdc588bb1efa2d0c22f0323a142b35669e73106987f07d5bd29f61a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313631623232" width="100%" />
-
 <h1 align="left"> Fala aí, de boa? 🤙</h1>
 
 <div align="left">
@@ -14,15 +11,15 @@
 
 </br>
 
-<p>Construo algumas apis por aí.</p>
+To te vendo 👀
+</br>
+![Visitor Count](https://komarev.com/ghpvc/?username=Gurtinho)
 
 </br>
 
-## ⚙️ My Tools
+## ⚙️ Stack
 
-**Tecnologies**
-
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,tailwind,jest,vitest&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,tailwind,jest,vitest&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
 
@@ -32,10 +29,15 @@
 
 </br>
 
-**🔥 Learning 🔥**
+## 🔥 Learning 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,actix,tauri,kafka,rabbitmq,grpc&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=go,rust,python,django,actix,tauri,kafka,rabbitmq,grpc&theme=light)]()
 
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)]()
 
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)]()
+
 </br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&theme=radical)
