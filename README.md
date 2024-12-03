@@ -1,43 +1,65 @@
-<h1 align="left"> Fala aí, de boa? 🤙</h1>
+# 👋 Olá, sou Gustavo!
 
-<div align="left">
-  <a href="https://www.instagram.com/gustavolitter/" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-litter-6ab24b191/" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/-linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
+Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Tenho experiência em **PHP, Rust, Typescript, Node.js e React.js** e gosto de explorar novas ferramentas para resolver problemas complexos. 🚀
+
+---
+
+## 📚 Sobre mim
+- 🌱 Atualmente aprendendo: **Rust**, **Nest.js**, **Next.js** e criando um **interpreter em Rust**.
+- 💼 Trabalhando como **Desenvolvedor PHP e Javascript**.
+- 🎮 Apaixonado por desenvolvimento e criação de ferramentas de programação.
+- 🧠 Interessado em explorar **computação paralela**, **desenvolvimento de motores gráficos** e **programação funcional**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** JavaScript/TypeScript, Rust, Go, PHP, Python.
+- **Frameworks e Bibliotecas:** React, Next.js, NestJS.
+- **Banco de Dados:** MySQL, MariaDB, Postgresql.
+- **Outros:** Git, Docker, Linux, WSL2, AWS.
+
+---
+
+<!--
+## 🌟 Destaques
+### 💻 Projetos mais relevantes:
+- [**Nome do Projeto 1**](link-do-projeto): Uma breve descrição do projeto e sua importância.
+- [**Nome do Projeto 2**](link-do-projeto): Uma breve descrição do projeto e sua importância.
+- [**Nome do Projeto 3**](link-do-projeto): Uma breve descrição do projeto e sua importância.
+-->
+
+<!--
+### 🎮 Jogos em desenvolvimento:
+- **Projeto Indie em Rust:** Criando um jogo 2D semelhante ao Stardew Valley sem uso de bibliotecas externas.  
+- **Minecraft Clone:** Explorando **OpenGL** e C++ para aprender mais sobre gráficos e engines customizadas.
+-->
+
+## 📈 Estatísticas GitHub
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
-</br>
+---
 
-To te vendo 👀
-</br>
-![Visitor Count](https://komarev.com/ghpvc/?username=Gurtinho)
+<!--
+## 📝 Últimos artigos
+- [Como criar um interpretador do zero em Rust](link-do-artigo)
+- [Por que escolher Rust para jogos](link-do-artigo)
+---
+-->
 
-</br>
+## 📬 Entre em contato comigo!
+<!-- - 🌐 [Meu site pessoal](link-do-site) -->
+- 💼 [LinkedIn](https://linkedin.com/in/gustavo-litter-6ab24b191)
+<!-- - 📧 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com) -->
 
-## ⚙️ Stack
+---
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,tailwind,jest,vitest&theme=light)]()
+⭐ **Sempre buscando novas oportunidades e desafios!** Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios favoritos. 😄
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma&theme=light)]()
+---
 
-[![My Skills](https://skillicons.dev/icons?i=docker,github&theme=light)]()
+💢🚧 Readme em desenvolvimento...
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,bash,powershell&theme=light)]()
-
-</br>
-
-## 🔥 Learning 🔥
-
-[![My Skills](https://skillicons.dev/icons?i=go,rust,python,django,actix,tauri,kafka,rabbitmq,grpc&theme=light)]()
-
-[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)]()
-
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)]()
-
-</br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&theme=radical)
+---
