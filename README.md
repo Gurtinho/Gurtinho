@@ -5,10 +5,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Ten
 ---
 
 ## 📚 Sobre mim
-- 🌱 Atualmente aprendendo: **Rust**, **Nest.js**, **Next.js** e criando um **interpreter em Rust**.
-- 💼 Trabalhando como **Desenvolvedor PHP e Javascript**.
-- 🎮 Apaixonado por desenvolvimento e criação de ferramentas de programação.
-- 🧠 Interessado em explorar **computação paralela**, **desenvolvimento de motores gráficos** e **programação funcional**.
+- 🌱 Atualmente aprendendo: **Python**, **Rust**, **Golang**, **Nest.js**, **Next.js**.
+- 💼 Trabalhando como **Desenvolvedor PHP**, **Nest.js** e **React.js**.
 
 ---
 
