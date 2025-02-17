@@ -52,12 +52,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Ten
 - 💼 [LinkedIn](https://linkedin.com/in/gustavo-litter-6ab24b191)
 <!-- - 📧 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com) -->
 
----
-
-⭐ **Sempre buscando novas oportunidades e desafios!** Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios favoritos. 😄
-
----
-
 💢🚧 Readme em desenvolvimento...
 
 ---
