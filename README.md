@@ -1,11 +1,11 @@
 # 👋 Olá, sou Gustavo!
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Tenho experiência em **PHP, Rust, Typescript, Node.js e React.js** e gosto de explorar novas ferramentas para resolver problemas complexos. 🚀
+Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Tenho experiência em **PHP, Typescript, Node.js e React.js** e gosto de explorar novas ferramentas para resolver problemas complexos. 🚀
 
 ---
 
 ## 📚 Sobre mim
-- 🌱 Atualmente aprendendo: **Python**, **Rust**, **Golang**.
+- 🌱 Atualmente aprendendo: **Python**, **Rust** e **C++**.
 - 💼 Trabalhando como Desenvolvedor **PHP**, **Nest.js** e **Next.js**.
 
 ---
@@ -48,10 +48,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Ten
 -->
 
 ## 📬 Entre em contato comigo!
+<!-- Exemplo de funcionamento de links -->
 <!-- - 🌐 [Meu site pessoal](link-do-site) -->
 - 💼 [LinkedIn](https://linkedin.com/in/gustavo-litter-6ab24b191)
-<!-- - 📧 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com) -->
-
-💢🚧 Readme em desenvolvimento...
+- 💼 [Meu portifólio](https://gustavolitter.vercel.app/)
 
 ---
