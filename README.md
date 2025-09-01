@@ -11,9 +11,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Ten
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** TypeScript (Já pode né).
+- **Linguagens:** TypeScript e Python.
 - **Frameworks e Bibliotecas:** Next.js, NestJS.
-- **Banco de Dados:** MySQL, Postgresql.
+- **Banco de Dados:** MySQL, PostgreSQL e MongoDB.
 - **Outros:** Git, Docker, Linux e WSL2.
 
 ---
