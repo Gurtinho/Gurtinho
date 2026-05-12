@@ -1,56 +1,32 @@
-# 👋 Olá, sou Gustavo!
+# Hi there, I'm Gustavo Litter! 👋
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Tenho experiência em **PHP, Typescript, Node.js e React.js** e gosto de explorar novas ferramentas para resolver problemas complexos. 🚀
+### 💻 About Me | Sobre Mim
 
----
+I am a **Software Developer** focused on building efficient back-end systems and automation tools. I prioritize logic and clean architecture in every line of code.
 
-## 📚 Sobre mim
-- 🌱 Atualmente aprendendo: **Python** e um **Golang** de vez em quando.
-- 💼 Trabalhando como Desenvolvedor **PHP**, **Node.js** e **React.js**.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** TypeScript e Python.
-- **Frameworks e Bibliotecas:** Next.js, NestJS.
-- **Banco de Dados:** MySQL, PostgreSQL e MongoDB.
-- **Outros:** Git, Docker, Linux e WSL2.
+- 🛠️ Currently developing **fiscal and ERP solutions**.
+- 🐍 Working with **Python** for automation and data processing.
+- 🚀 Building **LootHunter**, an affiliate marketing bot.
 
 ---
 
-<!--
-## 🌟 Destaques
-### 💻 Projetos mais relevantes:
-- [**Nome do Projeto 1**](link-do-projeto): Uma breve descrição do projeto e sua importância.
-- [**Nome do Projeto 2**](link-do-projeto): Uma breve descrição do projeto e sua importância.
-- [**Nome do Projeto 3**](link-do-projeto): Uma breve descrição do projeto e sua importância.
--->
+### 🛠️ Tech Stack | Tecnologias
 
-<!--
-### 🎮 Jogos em desenvolvimento:
-- **Projeto Indie em Rust:** Criando um jogo 2D semelhante ao Stardew Valley sem uso de bibliotecas externas.  
-- **Minecraft Clone:** Explorando **OpenGL** e C++ para aprender mais sobre gráficos e engines customizadas.
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## 📈 Estatísticas GitHub
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+---
+
+### 📬 Connect with me | Contato
+
+<div align="left">
+  <a href="https://linkedin.com/in/gustavo-litter-6ab24b191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-e91e63?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gustavolitter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </div>
-
----
-
-<!--
-## 📝 Últimos artigos
-- [Como criar um interpretador do zero em Rust](link-do-artigo)
-- [Por que escolher Rust para jogos](link-do-artigo)
----
--->
-
-## 📬 Entre em contato comigo!
-<!-- Exemplo de funcionamento de links -->
-<!-- - 🌐 [Meu site pessoal](link-do-site) -->
-- 💼 [LinkedIn](https://linkedin.com/in/gustavo-litter-6ab24b191)
-- 💼 [Meu portifólio](https://gustavolitter.vercel.app/)
-
----
