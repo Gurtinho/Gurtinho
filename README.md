@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Ten
 
 ## 📚 Sobre mim
 - 🌱 Atualmente aprendendo: **Python** e um **Golang** de vez em quando.
-- 💼 Trabalhando como Desenvolvedor **PHP**, **Nest.js** e **Next.js**.
+- 💼 Trabalhando como Desenvolvedor **PHP**, **Node.js** e **React.js**.
 
 ---
 
